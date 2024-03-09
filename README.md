@@ -19,7 +19,7 @@ Follow these steps to set up and run the application locally on your machine.
 
 ### Installation
 
-1. Clone the repository to your local machine: 
+1. Clone the repository to your local machine: https://github.com/HarshilRana-git/WebRTC.git
 2. Navigate to the project directory:
 3. Install dependencies: npm install
 
